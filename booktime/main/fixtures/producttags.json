@@ -1,0 +1,29 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Science",
+    "slug": "science",
+    "description": "All about science",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Maths",
+    "slug": "math",
+    "description": "All about maths",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "History",
+    "slug": "history",
+    "description": "All about history",
+    "active": true
+  }
+}
+]
